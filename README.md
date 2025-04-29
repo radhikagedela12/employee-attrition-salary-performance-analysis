@@ -1,6 +1,5 @@
-# employee-attrition-salary-performance-analysis
+# Employee-Attrition-Salary-Performance-Analysis
 Statistical modeling and data analysis project investigating the interplay between employee attrition, salaries, and performance ratings using R. Includes multiple linear regression, logistic regression, and OLS modeling based on Kaggle HR dataset.
-
 
 
 # Data-Driven Insights into Employee Attrition, Salaries, and Performance Ratings
@@ -24,7 +23,7 @@ This repository contains a comprehensive data analysis project focused on employ
 | `project_report.pdf`             | Full academic project report including methodology, results, and discussion|
 | `employee_attrition.csv`         | Cleaned dataset used for analysis (original source from Kaggle)            |
 | `eda_plots/`                     | Visualizations and plots generated during exploratory data analysis        |
-| `regression_models.R`           | R script for multiple linear and logistic regression models                |
+| `regression_models.R`            | R script for multiple linear and logistic regression models                |
 | `ols_model.R`                    | R script for the ordinary least squares regression model                   |
 | `README.md`                      | Project overview, usage, and file explanations                             |
 
